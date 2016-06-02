@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "919266960137",
+    "project_id": "optimum-legacy-133013"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:919266960137:android:c7832ac7aa19eaa7",
+        "android_client_info": {
+          "package_name": "com.infotech.creativeinfoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "919266960137-l6asnadc2vpedtqf06l9rom3ggvb8tfd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.infotech.creativeinfoapp",
+            "certificate_hash": "6A92DAF0C09D3F5E956E7F19E467E2906C763F64"
+          }
+        },
+        {
+          "client_id": "919266960137-05vjhbh5mq8qpa6hogcat3nijnbdqbi7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHZ606Y5SMl1gNK0ybZmgeEmKS9dnmR-Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
